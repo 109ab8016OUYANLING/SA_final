@@ -1,0 +1,5 @@
+要改的東西有:
+1. js/IMlinegraph.js 裡面的url路徑 (有兩個url)
+
+2. web/showchart.php 裡面抓的資料庫和資料表名稱正不正確
+
