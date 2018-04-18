@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:14:27	25/25	---M--	200	added ('OK')	text/plain	etag:%225894ecdf-19%22	http://demo.adminbootstrap.com/robots.txt		(from )
+21:14:27	43813/43813	---MCZ	200	added ('OK')	text/html	etag:W/%22589b91e9-ab25%22	http://demo.adminbootstrap.com/right/1.0.0/	C:/Users/User/Desktop/test/demo.adminbootstrap.com/right/1.0.0/index.html	(from )
+21:14:29	89153/89153	---M-Z	200	added ('OK')	application/x-javascript	date:Wed,%2027%20Dec%202017%2015:25:39%20GMT	https://mc.yandex.ru/metrika/watch.js	C:/Users/User/Desktop/test/mc.yandex.ru/metrika/watch.js	(from http://demo.adminbootstrap.com/right/1.0.0/)
